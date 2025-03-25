@@ -1,7 +1,9 @@
 # Study Materials  
 ---
+
 Esse repositório lista os materiais de estudo para novos alunos de Iniciação Científica ingressando o **NERDS - UFES**.
 Links marcados com `*` são **essenciais**! Sinta-se livre para explorar a documentação e outros recursos além do listado aqui.
+Alguns materiais estão disponíveis em Português, entretanto, os documentos originais (em Inglês) são mais completos.
 
 ---
 
