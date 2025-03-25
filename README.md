@@ -68,7 +68,7 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
   
 ---
 
-## FIWARE**  
+## **FIWARE**  
 
 ### **Introduction**  
 - [**FIWARE Overview***](https://www.fiware.org/about-us/)  
