@@ -19,7 +19,7 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
 ---
 
 ## 🔒 **Isolation and Virtualization**  
-- [**Review Paper: Isolation in Cloud Computing Systems***](./Revisão_Bibliográfica___Isolamento_em_Sistemas_de_Computação_em_Nuvem)  
+- [**Review Paper: Isolation in Cloud Computing Systems***](Revisão_Bibliográfica___Isolamento_em_Sistemas_de_Computação_em_Nuvem.pdf)  
 
 ---
 
