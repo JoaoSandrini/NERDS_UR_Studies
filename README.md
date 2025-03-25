@@ -88,5 +88,5 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
 
 ---
 
-Happy studying! �  
+Happy studying!
 *NERDS - UFES*
