@@ -56,6 +56,8 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
 - [Expose Your App](https://kubernetes.io/pt-br/docs/tutorials/kubernetes-basics/expose/)  
 - [Scale Your App](https://kubernetes.io/pt-br/docs/tutorials/kubernetes-basics/scale/)  
 
+---
+
 ## 🎯 **Project-Specific:** 
 
 ## 🚀 **StarlingX**  
