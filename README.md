@@ -61,8 +61,6 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
 
 ## 🎯 **Project-Specific:** 
 
----
-
 ## 🚀 **StarlingX**  
 - [**Official Website***](https://www.starlingx.io/)  
 - [**Functional Overview***](https://docs.starlingx.io/introduction/functional_overview.html)  
