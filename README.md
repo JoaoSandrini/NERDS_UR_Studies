@@ -21,6 +21,7 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
 ---
 
 ## 🐳 **Docker**  
+- [**Video Tutorial (in English)**](https://www.youtube.com/watch?v=3c-iBn73dDE)
 
 ### **Core Concepts**  
 - [**Docker Overview***](https://docs.docker.com/get-started/docker-overview/)  
@@ -32,7 +33,7 @@ Links marked with `*` are **essential**! Feel free to explore documentation and 
 - [**What is a Registry?***](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-registry/)  
 - [**What is Docker Compose?***](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-docker-compose/)  
 
-### **Advanced Topics**  
+### **More Advanced Topics**  
 - [Building Images](https://docs.docker.com/get-started/docker-concepts/building-images/)  
 - [Writing a Dockerfile](https://docs.docker.com/get-started/docker-concepts/building-images/writing-a-dockerfile/)  
 - [Build, Tag, and Publish an Image](https://docs.docker.com/get-started/docker-concepts/building-images/build-tag-and-publish-an-image/)  
