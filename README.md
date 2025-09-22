@@ -3,11 +3,12 @@
 Esse repositório lista os materiais de estudo para novos alunos de Iniciação Científica ingressando o **NERDS - UFES**.
 Links marcados com `*` são **essenciais**! Sinta-se livre para explorar a documentação e outros recursos além do listado aqui.
 Alguns materiais estão disponíveis em Português, entretanto, os documentos originais (em Inglês) são mais completos.
-
+O presente trabalho foi realizado com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), Brasil. Processo nº 2024/23727-8.
 ---
 
 This repository lists study materials for new Scientific Initiation students joining **NERDS - UFES**.  
 Links marked with `*` are **essential**! Feel free to explore documentation and other sources beyond what's listed here.  
+This study was financed, in part, by the Sao Paulo Research Foundation (FAPESP), Brasil. Process Number #2024/23727-8
 
 ## 📌 **Linux Basics**  
 - [**Introduction to Command Line Interface (CLI)***](https://www.w3schools.com/whatis/whatis_cli.asp)  
